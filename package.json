@@ -110,7 +110,7 @@
 		"version": "npm run build -s"
 	},
 	"devDependencies": {
-		"vsce": "^1.64.0"
+		"vsce": "^1.103.1"
 	},
 	"dependencies": {}
 }
